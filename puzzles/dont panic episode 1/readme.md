@@ -1,3 +1,6 @@
+esse puzzle pode ser encontrado em:
+https://www.codingame.com/ide/puzzle/don't-panic-episode-1
+
 Dado os seguintes valores: 
 - número de andares;
 - tamanho do mapa;
