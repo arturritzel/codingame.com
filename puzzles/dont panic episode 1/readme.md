@@ -9,6 +9,7 @@ Dado os seguintes valores:
 - posição da saída;
 - numero total de clones;
 - numero de elevadores;
+- posição do elevador de acordo com seu andar
 
 - posição do clone;
 - andar do clone
