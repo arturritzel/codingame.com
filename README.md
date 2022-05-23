@@ -1,1 +1,1 @@
-# codingame.com
+exercícios propostos encontrados em https://codingame.com
